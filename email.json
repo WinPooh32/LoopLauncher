@@ -1,0 +1,9 @@
+{
+    "port": 465,
+    "host": "smtp.email.com",
+    "secure": true,
+    "from": "your@email.com",
+    "to": ["alert_to1st@email.com", "alert_to2nd@email.com"],
+    "user": "your@email.com",
+    "pass": "emailpassword"
+}
